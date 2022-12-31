@@ -1,2 +1,2 @@
 # Expanding-cards-project
-A project of expanding cards with BradTraversy
+A project of expanding cards with BradTraversy (Day 1)
